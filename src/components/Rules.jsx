@@ -20,7 +20,7 @@ const Rules = () => {
                             <Users size={32} />
                         </div>
                         <h3 className="text-xl font-bold text-white mb-2">Team Size</h3>
-                        <p className="text-gray-300">2 – 4 Members per team.</p>
+                        <p className="text-gray-300">1 – 4 Members per team.</p>
                     </motion.div>
 
                     <motion.div
